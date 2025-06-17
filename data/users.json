@@ -1,0 +1,7 @@
+[
+  { "name": "Alice", "job": "Engineer" },
+  { "name": "Bob", "job": "Designer" },
+  { "name": "Charlie", "job": "Product Manager" },
+  { "name": "Diana", "job": "Data Analyst" },
+  { "name": "Ethan", "job": "DevOps" }
+]
